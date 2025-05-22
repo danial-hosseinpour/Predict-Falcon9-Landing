@@ -27,15 +27,15 @@ This project integrates **REST API** calls and **Web Scraping** techniques to co
 
 - SpaceX Launch Sites Mapped with Folium
   
-<img src="Plot-Images/Map1.jpeg" width="500"/>
+<img src="Plots/Map1.jpeg" width="500"/>
 
-<img src="Plot-Images/Map2.jpeg" width="500"/>
+<img src="Plots/Map2.jpeg" width="500"/>
 
-![Map3](Plot-Images/Map3.gif)
+![Map3](Plots/Map3.gif)
 
-![Map4](Plot-Images/Map4.gif) 
+![Map4](Plots/Map4.gif) 
 
-![Map5](Plot-Images/Map5.gif)  
+![Map5](Plots/Map5.gif)  
 
 - Booster Landing Success Rates Per Orbit Type
 - Confusion Matrix for the Best Classifier (Decision Tree)
